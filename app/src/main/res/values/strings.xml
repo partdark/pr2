@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr2</string>
+    <string name="push_it">Push it</string>
+    <string name="string_name">Ваше имя</string>
+    <string name="name_after_click">Comaru</string>
+    <string name="ur_name">Ваше имя</string>
+</resources>
